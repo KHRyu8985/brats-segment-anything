@@ -1,0 +1,54 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://download.pytorch.org/whl/cu121"
+verify_ssl = false
+name = "pytorch"
+
+[packages]
+easydict = "*"
+cython = "*"
+scipy = "*"
+pandas = "*"
+pyyaml = "*"
+json-tricks = "*"
+scikit-image = "*"
+tensorboardx = "*"
+yacs = "*"
+cffi = "*"
+munkres = "*"
+tqdm = "*"
+autorootcwd = "*"
+click = "*"
+gradio = "*"
+torch = {version="*", index = "pytorch"}
+torchvision = {version="*", index = "pytorch"}
+torchaudio = {version="*", index = "pytorch"}
+timm = "*"
+onnx = "*"
+onnxruntime = "*"
+monai = {extras = ["all"], version = "*"}
+jupyterlab = "*"
+ipykernel = "*"
+dvc = {extras = ["ssh"], version = "*"}
+accelerate = "*"
+diffusers = {extras = ["torch"], version = "*"}
+datasets = {extras = ["vision"], version = "*"}
+simpleitk = "*"
+ema-pytorch = "*"
+aim = "*"
+cucim-cu12 = "*"
+cupy-cuda12x = "*"
+PyQt5 = "*"
+opencv-python-headless = "*"
+ipympl = "*"
+connected-components-3d = "*"
+intensity-normalization = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
