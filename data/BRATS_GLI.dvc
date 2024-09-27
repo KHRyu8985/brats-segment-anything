@@ -1,0 +1,6 @@
+outs:
+- md5: 83bb66a15d216c006ab9977c8a12d70c.dir
+  size: 13389537553
+  nfiles: 6255
+  hash: md5
+  path: BRATS_GLI

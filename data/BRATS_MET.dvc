@@ -1,0 +1,6 @@
+outs:
+- md5: 42b30c0f9cfe7635c99dd6cc9bfdd184.dir
+  size: 2962586850
+  nfiles: 826
+  hash: md5
+  path: BRATS_MET

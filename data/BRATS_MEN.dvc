@@ -1,0 +1,6 @@
+outs:
+- md5: 4b87ec29133d48b09e9165132b53fedf.dir
+  size: 20695540133
+  nfiles: 5000
+  hash: md5
+  path: BRATS_MEN
