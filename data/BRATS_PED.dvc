@@ -1,0 +1,6 @@
+outs:
+- md5: 8286dbb218fedae24ff0eb4723d52344.dir
+  size: 4228715448
+  nfiles: 990
+  hash: md5
+  path: BRATS_PED

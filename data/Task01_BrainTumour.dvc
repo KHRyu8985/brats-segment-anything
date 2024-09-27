@@ -1,0 +1,6 @@
+outs:
+- md5: d3e31fcb49aef721a23df8c2d9363951.dir
+  size: 15215548188
+  nfiles: 1275
+  hash: md5
+  path: Task01_BrainTumour
