@@ -7,3 +7,4 @@ data/*
 *.npz
 *.nii.gz
 *.pth
+/weights
