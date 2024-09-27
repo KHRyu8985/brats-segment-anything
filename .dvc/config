@@ -1,0 +1,7 @@
+[core]
+    remote = myremote
+    autostage = true
+['remote "myremote"']
+    url = ssh://kanghyun@161.122.21.126:/data/medsam-dvc
+    user = kanghyun
+    password = 898512

@@ -2,3 +2,8 @@
 *.png
 data/*
 *.pyc
+!data/.gitkeep
+!*.dvc
+*.npz
+*.nii.gz
+*.pth
